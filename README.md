@@ -1,4 +1,5 @@
 🏠 Dublin House Price Prediction
+
 📌 Project Overview
 This project applies predictive analytics and machine learning techniques to forecast housing prices in Dublin using the Ireland House Price.csv dataset. The primary goal is to explore factors that influence property prices and to create models that can assist stakeholders like homebuyers, investors, and developers in making data-driven decisions.
 
